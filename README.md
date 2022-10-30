@@ -1,4 +1,4 @@
-<h1> Web services SOAP WDSL UDDI Use case avec JAXWS</h1>
+<h1> Développement d'un Web service SOAP, WSDL avec JAWRS</h1>
 
 <h1>Introduction</h1>
 
